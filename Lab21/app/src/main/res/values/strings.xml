@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Таймер</string>
+    <string name="interval">Интервал:</string>
+    <string name="minutes">Минуты:</string>
+    <string name="seconds">Секунды:</string>
+    <string name="start">Пуск</string>
+    <string name="stop">Стоп</string>
+    <string name="ready_to_start">Таймер готов к запуску</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SuperApp</string>
+    <string name="music">Music</string>
+    <string name="books">Books</string>
+    <string name="news">News</string>
+    <string name="tab_music_pop">Pop</string>
+    <string name="tab_music_disco">Disco</string>
+    <string name="tab_music_rock">Rock</string>
+    <string name="tab_music_classic">Classic</string>
+    <string name="tab_music_score">Soundtrack</string>
+    <string name="tab_music_instrument">Instrumental</string>
+    <string name="tab_music_jazz">Jazz</string>
+    <string name="tab_music_hiphop">Hip-Hop</string>
+    <string name="clear_news">Clear News</string>
+</resources>

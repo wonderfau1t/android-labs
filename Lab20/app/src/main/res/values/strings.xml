@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lab20</string>
+    <string name="show_notification">Показать уведомление</string>
+</resources>
